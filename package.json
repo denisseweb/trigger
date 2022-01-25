@@ -1,0 +1,15 @@
+{
+  "name": "trigger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "trigger": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.0.0",
+    "mongoose": "6.1.8"
+  }
+}
